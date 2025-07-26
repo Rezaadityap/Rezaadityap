@@ -2,7 +2,7 @@
 <html lang="en">
 <body>
 
-  <h1>🐍 Reza Aditya Pratama's GitHub Profile</h1>
+  <h1>Reza Aditya Pratama's GitHub Profile</h1>
 
   <div class="section">
     <p>Hi there! 👋<br>
@@ -19,12 +19,6 @@
       <li>📈 Always learning and improving!</li>
     </ul>
   </div>
-
-  <div class="section">
-    <h2>📊 GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=rezaalpratamaa&show_icons=true&theme=radical" alt="GitHub Stats">
-  </div>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=maulanasyaa&color_snake=#00BFFF&color_dots=#A4A5A6" alt="github contribution snake dark" />
 </p>
