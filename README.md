@@ -45,9 +45,9 @@
   <div class="section">
     <h2>📫 Contact Me</h2>
     <ul>
-      <li>💼 <a href="https://www.linkedin.com/in/rezaalpratamaa">LinkedIn</a></li>
-      <li>📷 <a href="https://instagram.com/rezaalpratamaa">Instagram</a></li>
-      <li>📧 Email: <a href="mailto:rezaadityapratamaa@gmail.com">rezaadityapratamaa@gmail.com</a></li>
+      <li>💼 <a href="https://www.linkedin.com/in/reza-aditya-pratama-884188256">LinkedIn</a></li>
+      <li>📷 <a href="https://www.instagram.com/reza.adtyprtm_">Instagram</a></li>
+      <li>📧 Email: <a href="mailto:rezaditpratama12@gmail.com">rezaadityapratamaa@gmail.com</a></li>
     </ul>
   </div>
 
