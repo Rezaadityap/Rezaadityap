@@ -47,7 +47,7 @@
     <ul>
       <li>💼 <a href="https://www.linkedin.com/in/reza-aditya-pratama-884188256">LinkedIn</a></li>
       <li>📷 <a href="https://www.instagram.com/reza.adtyprtm_">Instagram</a></li>
-      <li>📧 Email: <a href="mailto:rezaditpratama12@gmail.com">rezaadityapratamaa@gmail.com</a></li>
+      <li>📧 Email: <a href="mailto:rezaditpratama12@gmail.com">rezaditpratama12@gmail.com</a></li>
     </ul>
   </div>
 
