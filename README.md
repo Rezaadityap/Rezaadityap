@@ -1,36 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Reza Aditya Pratama - GitHub Profile</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #0d1117;
-      color: #c9d1d9;
-      line-height: 1.6;
-      padding: 20px;
-      max-width: 800px;
-      margin: auto;
-    }
-    h1, h2 {
-      color: #58a6ff;
-    }
-    a {
-      color: #58a6ff;
-      text-decoration: none;
-    }
-    .badges img {
-      margin: 4px;
-    }
-    .section {
-      margin-bottom: 40px;
-    }
-    .snake-container {
-      text-align: center;
-    }
-  </style>
-</head>
 <body>
 
   <h1>🐍 Reza Aditya Pratama's GitHub Profile</h1>
