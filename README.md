@@ -33,8 +33,11 @@
       <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP">
       <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" alt="Laravel">
       <img src="https://img.shields.io/badge/codeigniter-%23DD4814.svg?style=flat&logo=codeigniter&logoColor=white" alt="CodeIgniter">
-      <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vue.js&logoColor=%234FC08D" alt="Vue.js">
-      <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white" alt="Flask">
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React.js">
+      <img src="https://img.shields.io/badge/bootstrap-%23563d7c.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
+      <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/alpine.js-%230072b8.svg?style=flat&logo=alpine.js&logoColor=white" alt="Alpine.js">
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
       <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
     </div>
   </div>
