@@ -14,7 +14,7 @@
     <h2>🚀 About Me</h2>
     <ul>
       <li>🎓 Student at Bina Sarana Informatika, majoring in Information Systems</li>
-      <li>💻 Focused on full-stack development (PHP, Laravel, CodeIgniter, Flask, Vue.js)</li>
+      <li>💻 Focused on full-stack development (PHP, Laravel, CodeIgniter, React.js)</li>
       <li>🎨 Exploring UI/UX Design and Tailwind CSS</li>
       <li>📈 Always learning and improving!</li>
     </ul>
