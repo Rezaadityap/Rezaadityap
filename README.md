@@ -13,8 +13,9 @@ I'm Reza Aditya Pratama — a passionate developer who loves building dynamic we
 ![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezaalpratamaa&show_icons=true&theme=radical)
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/rezaalpratamaa/rezaalpratamaa/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=maulanasyaa&color_snake=#00BFFF&color_dots=#A4A5A6" alt="github contribution snake dark" />
+</p>
 ## 🧰 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
