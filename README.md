@@ -23,16 +23,16 @@ in Laravel, React.js, Linux, and server management.
 
 **Database:** MySQL
 
-## GitHub
+## GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Rezaadityap&show_icons=false&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api?username=Rezaadityap&show_icons=false&hide=contribs&hide_rank=true&include_all_commits=true&hide_border=true&theme=transparent"
     height="150"
     alt="GitHub Statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezaadityap&layout=compact&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezaadityap&layout=compact&langs_count=6&hide_border=true&theme=transparent"
     height="150"
     alt="Top Languages"
   />
