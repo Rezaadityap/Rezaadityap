@@ -1,55 +1,77 @@
-<!DOCTYPE html>
-<html lang="en">
-<body>
+# Reza Aditya Pratama
 
-  <h1>Reza Aditya Pratama's GitHub Profile</h1>
+**Full-Stack Developer · Information Systems Student**
 
-  <div class="section">
-    <p>Hi there! 👋<br>
-      I'm <strong>Reza Aditya Pratama</strong> — a passionate developer who loves building dynamic web applications and solving real-world problems with code.
-    </p>
-  </div>
+I build web applications with a focus on practical solutions, clean interfaces, and maintainable code.
 
-  <div class="section">
-    <h2>🚀 About Me</h2>
-    <ul>
-      <li>🎓 Student at Nusa Mandiri University, majoring in Information Systems</li>
-      <li>💻 Focused on full-stack development (PHP, Laravel, CodeIgniter, React.js)</li>
-      <li>🎨 Exploring UI/UX Design and Tailwind CSS</li>
-      <li>📈 Always learning and improving!</li>
-    </ul>
-  </div>
+Currently working mostly with **Laravel, React, PHP, and MySQL**, while continuously exploring better approaches to backend architecture and UI/UX.
+
+---
+
+## About
+
+- Information Systems student at **Nusa Mandiri University**
+- Focused on **full-stack web development**
+- Experienced with **Laravel, CodeIgniter, React.js, PHP, and MySQL**
+- Interested in **UI/UX and modern frontend development**
+- Always learning, experimenting, and building
+
+---
+
+## Tech Stack
+
+**Languages & Backend**
+
+`PHP` `JavaScript` `Node.js`
+
+**Frameworks**
+
+`Laravel` `CodeIgniter` `React.js`
+
+**Frontend**
+
+`HTML` `CSS` `Tailwind CSS` `Bootstrap` `Alpine.js`
+
+**Database & Tools**
+
+`MySQL` `Git` `GitHub`
+
+---
+
+## What I Build
+
+I enjoy working on applications that solve actual business and operational problems — from internal systems and dashboards to customer-facing web applications.
+
+Some areas I work with:
+
+- Business & internal management systems
+- CRUD applications and REST APIs
+- Dashboard & reporting systems
+- Data processing and automation
+- Responsive web interfaces
+- PDF & Excel-based workflows
+
+---
+
+## GitHub Activity
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=maulanasyaa&color_snake=#00BFFF&color_dots=#A4A5A6" alt="github contribution snake dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maulanasyaa&show_icons=false&hide_border=true&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanasyaa&layout=compact&hide_border=true&theme=transparent" height="150" />
 </p>
 
-  <div class="section">
-    <h2>🧰 Tech Stack</h2>
-    <div class="badges">
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP">
-      <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" alt="Laravel">
-      <img src="https://img.shields.io/badge/codeigniter-%23DD4814.svg?style=flat&logo=codeigniter&logoColor=white" alt="CodeIgniter">
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React.js">
-      <img src="https://img.shields.io/badge/bootstrap-%23563d7c.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
-      <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/alpine.js-%230072b8.svg?style=flat&logo=alpine.js&logoColor=white" alt="Alpine.js">
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
-      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-    </div>
-  </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=maulanasyaa&color_snake=%2300B6FF&color_dots=%23A4A5A6" alt="GitHub contribution activity" />
+</p>
 
-  <div class="section">
-    <h2>📫 Contact Me</h2>
-    <ul>
-      <li>💼 <a href="https://www.linkedin.com/in/reza-aditya-pratama-884188256">LinkedIn</a></li>
-      <li>📷 <a href="https://www.instagram.com/reza.adtyprtm_">Instagram</a></li>
-      <li>📧 Email: <a href="mailto:rezaditpratama12@gmail.com">rezaditpratama12@gmail.com</a></li>
-    </ul>
-  </div>
+---
 
-</body>
-</html>
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/reza-aditya-pratama-884188256) · [Instagram](https://www.instagram.com/reza.adtyprtm_) · [Email](mailto:rezaditpratama12@gmail.com)
+
+---
+
+<p align="center">
+  <sub>Building things, learning along the way.</sub>
+</p>
