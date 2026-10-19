@@ -1,77 +1,52 @@
 # Reza Aditya Pratama
 
-**Full-Stack Developer · Information Systems Student**
+**IT Support | Web Developer**
 
-I build web applications with a focus on practical solutions, clean interfaces, and maintainable code.
+I build web applications and practical IT solutions, with experience
+in Laravel, React.js, Linux, and server management.
 
-Currently working mostly with **Laravel, React, PHP, and MySQL**, while continuously exploring better approaches to backend architecture and UI/UX.
+## About Me
 
----
-
-## About
-
-- Information Systems student at **Nusa Mandiri University**
-- Focused on **full-stack web development**
-- Experienced with **Laravel, CodeIgniter, React.js, PHP, and MySQL**
-- Interested in **UI/UX and modern frontend development**
-- Always learning, experimenting, and building
-
----
+- Information Systems graduate
+- Focused on web development and IT solutions
+- Working with Laravel, React.js, PHP, and REST APIs
+- Interested in Linux, server management, and infrastructure
+- Always learning and building something new
 
 ## Tech Stack
 
-**Languages & Backend**
+**Backend:** PHP · Laravel · CodeIgniter · REST API
 
-`PHP` `JavaScript` `Node.js`
+**Frontend:** React.js · Tailwind CSS · Bootstrap
 
-**Frameworks**
+**Infrastructure:** Linux · aaPanel · Active Directory
 
-`Laravel` `CodeIgniter` `React.js`
+**Database:** MySQL
 
-**Frontend**
-
-`HTML` `CSS` `Tailwind CSS` `Bootstrap` `Alpine.js`
-
-**Database & Tools**
-
-`MySQL` `Git` `GitHub`
-
----
-
-## What I Build
-
-I enjoy working on applications that solve actual business and operational problems — from internal systems and dashboards to customer-facing web applications.
-
-Some areas I work with:
-
-- Business & internal management systems
-- CRUD applications and REST APIs
-- Dashboard & reporting systems
-- Data processing and automation
-- Responsive web interfaces
-- PDF & Excel-based workflows
-
----
-
-## GitHub Activity
+## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maulanasyaa&show_icons=false&hide_border=true&theme=transparent" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanasyaa&layout=compact&hide_border=true&theme=transparent" height="150" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Rezaadityap&show_icons=false&hide_border=true&theme=transparent"
+    height="150"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezaadityap&layout=compact&hide_border=true&theme=transparent"
+    height="150"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=maulanasyaa&color_snake=%2300B6FF&color_dots=%23A4A5A6" alt="GitHub contribution activity" />
+  <img
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=Rezaadityap&color_snake=%2300B6FF&color_dots=%23A4A5A6"
+    alt="GitHub Contribution Activity"
+  />
 </p>
-
----
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/reza-aditya-pratama-884188256) · [Instagram](https://www.instagram.com/reza.adtyprtm_) · [Email](mailto:rezaditpratama12@gmail.com)
-
----
-
-<p align="center">
-  <sub>Building things, learning along the way.</sub>
-</p>
+[LinkedIn](https://www.linkedin.com/in/reza-aditya-pratama-884188256) ·
+[Instagram](https://www.instagram.com/reza.adtyprtm_) ·
+[Email](mailto:rezadityapratama.id@gmail.com)
